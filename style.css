@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    margin: 10px 10px;
+}
+.content {
+    font-size: 21px;
+    font-weight: 600;
+    
+}
